@@ -1,4 +1,5 @@
-# TeCS-A-Dataset-and-Benchmark-for-Tense-Consistency
+# TeCS: A Dataset and Benchmark for Tense Consistency in Machine Translation
+This is the official repo for the ACL 2023 paper: TeCS: A Dataset and Benchmark for Tense Consistency in Machine Translation.
 Tense inconsistency frequently occurs in machine translation. In this repository, we present a parallel tense test set, containing French-English 552 utterances and a corresponding benchmark, tense prediction accuracy. 
 
 # Data License
